@@ -1,5 +1,5 @@
 
-# 🧠 Baixador de vídeos de redes sociais
+# 🧠 Script que cria legendas em diversos idiomas para vídeos
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
